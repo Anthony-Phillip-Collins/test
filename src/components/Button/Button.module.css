@@ -1,0 +1,13 @@
+.Button {
+  background: #fdc605;
+  border: none;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  margin: 0;
+}
+
+.Button svg {
+  height: 1.5rem;
+  width: 1.5rem;
+}
